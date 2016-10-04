@@ -1,0 +1,107 @@
+/*************
+  Lens Theme
+
+  Red: #B33125;
+  Dark gray: #5A5A54
+  Medium gray: #A8A299
+  Light gray: #F5F5EF
+  Black: #000000;
+  White: #FFFFFF;
+
+  Headlines (bold)
+  font-family: "news-gothic-std", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+
+  Headlines alternate (roman)
+  font-family: "news-gothic-std", Helvetica, Arial, sans-serif;
+
+  Sub-headlines (demi)
+  font-family: "news-gothic-std", Helvetica, Arial, sans-serif;
+
+  Body content
+  font-family: "minion-pro", Georgia, "Times New Roman", Times, serif;
+
+ *************/
+body {
+  width: 100%;
+  max-width: 850px;
+  height: auto;  /* For pym.js */
+  margin: 0;
+  font-size: 14px;
+  font-family: "news-gothic-std", Helvetica, Arial, sans-serif;
+}
+.map {
+  width: 100%;
+  max-width: 850px;
+  height: 475px;
+  border: 1px solid #F5F5EF;
+}
+.leaflet-container {
+  font-size: 14px;
+  font-family: "news-gothic-std", Helvetica, Arial, sans-serif;
+}
+.info {
+  padding: 6px 8px;
+  font: 14px;
+  background: #FFF;
+  border: 1px solid #b33125;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+}
+.legend {
+  line-height: 16px;
+}
+.legend i {
+  width: 14px;
+  height: 14px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+  border: 2px solid #000;
+  border-radius: 7px;
+}
+.legend-title {
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 5px;
+}
+.source {
+  font-size: 12px;
+  padding-top: 5px;
+}
+.caption {
+  width: 100%;
+  max-width: 850px;
+  font-size: 12px;
+  padding-top: 2px;
+  text-align: right;
+  color: #4D4D4D;
+}
+.leaflet-control-attribution {
+  text-align: right;
+}
+.leaflet-container .leaflet-control-attribution {
+  background-color: rgba(255,255,255,0);
+}
+.leaflet-container a,
+.leaflet-container a:visited,
+.leaflet-container a:focus,
+.leaflet-container a:active {
+  color: #3887BE !important;
+}
+
+/* Popups */
+.leaflet-popup-content-wrapper {
+  border: 1px solid black;
+}
+
+.leaflet-popup-tip {
+  background-color: #c3c3c3;
+  width: 0;
+  height: 0;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+  pointer-events: none;
+}
