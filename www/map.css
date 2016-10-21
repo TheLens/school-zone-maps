@@ -34,7 +34,6 @@ body {
   width: 100%;
   max-width: 850px;
   height: 475px;
-  border: 1px solid #F5F5EF;
 }
 .leaflet-container {
   font-size: 14px;

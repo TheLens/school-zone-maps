@@ -1,5 +1,7 @@
 .DEFAULT_GOAL := all
 
+.PHONY: all deploy
+
 data/geocoded.csv: data/results.csv
 	@# Convert raw results data to geocoded data stored as CSV.
 	@mkdir -p $(dir $@)
@@ -13,3 +15,6 @@ www/markers.json: data/geocoded.csv
 		$< > $@
 
 all: www/markers.json
+
+deploy:
+	@bash scripts/s3.sh

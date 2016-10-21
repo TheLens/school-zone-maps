@@ -23,11 +23,13 @@ def _write_csv(writer, row_data):
 
 def _process_row(writer, i, row):
     """Geocode and format this row."""
+    # Assumes address is in 7th column.
     short_address = row[6]
     full_address = short_address + ', New Orleans, LA'
 
     print("Processing row {0}: {1}".format(i, short_address))
 
+    # Assumes status is in 12th column.
     light_is_working = row[11].lower()[0]  # Yes/No/Partial => y/n/p
 
     geocoder = Geocode(full_address)

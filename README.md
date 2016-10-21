@@ -56,10 +56,10 @@ Open a new tab in your web browser and navigate to [http://localhost:8000](http:
 
 ## Deployment
 
-Run `scripts/s3.sh` to upload the contents in `www/` to an S3 bucket. Make sure to edit `scripts/s3.sh` first and update the new bucket name.
+Run `make deploy` to upload the contents in `www/` to an S3 bucket. Make sure to edit `scripts/s3.sh` first and update the new bucket name.
 
 ```bash
-./scripts/s3.sh
+make deploy
 ```
 
 ## Publication

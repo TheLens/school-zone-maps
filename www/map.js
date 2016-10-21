@@ -38,7 +38,7 @@ function tallyCategories(data) {
 }
 
 function getResultsFromS3() {
-  var url = "https://s3-us-west-2.amazonaws.com/projects.thelensnola.org/school-zones/PROJECT_SLUG/markers.json";
+  var url = "markers.json";
   d3.json(url, handleResultsFromS3);
 }
 
