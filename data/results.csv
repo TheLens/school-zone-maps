@@ -1,0 +1,138 @@
+cks,city area,School,current school?,School address,Flasher location,Adjusted addresses,Date Checked,,,,"Does light work? (Answers are ""yes"" ""no"" ""partial""",,Low battery warning?,,Sign obstructed? By what? To whom?,,,,Is a flasher there?,Is there a speed limit camera?
+Beatty,Uptown,New Orleans Charter Science and Math High School,yes,"5625 Loyola Ave, New Orleans LA",1700 Nashville Ave,1700 Nashville Ave.,,,,,yes,,,,,,,,yes,n
+,,,,,2100 Nashville Ave,2100 Nashville Ave.,,,,1,no,also obscured,,,"yes, trees",,,,yes,n
+Beatty,Uptown,ReNEW Accelerated High School,yes,3649 Laurel Street,800 Louisiana Ave,800 Louisiana Ave.,,,,1,No,,,,,,,,yes,n
+,,,,,900 Louisiana Ave,900 Louisiana Ave.,,,,1,No,,,,,,,,yes,n
+Beatty,Freret,Samuel Green Charter School,yes,2319 Valence St,2200 Valence St,2200 Valence St.,,,,1,no,,,,,,,,yes,n
+,,,,,2400 Valence St,2400 Valence St.,,,,1,no,,,,,,,,yes,n
+,,,,,4500 Freret St,4500 Freret St.,,,,,yes,,,,,,,,yes,y
+,,,,,4700 Freret St,4700 Freret St.,,,,,yes,,,,,,,,yes,y
+Beatty,Uptown,Drexel/Xavier Prep,yes,5116 Magazine St,5000 magazine,5000 Magazine St.,,,,1,no,,,,,,,,yes,n
+,,,,,5200 magazine,5200 Magazine St.,,,,1,no,,,,,,,,yes,n
+Beatty,Uptown,Academy of the Sacred Heart,yes,4521 St. Charles Ave,4400 St. Charles Ave,4400 St. Charles Ave.,,,,,"partial, low batt",,quick flash of both lights at same time,,,,,,yes,n
+,,,,,4600 St. Charles Ave,4600 St. Charles Ave.,,,,,yes,,,,,,,,yes,n
+Beatty,Uptown,St. Stephen Catholic Central School,yes,1027 Napoleon Ave,4100 Magazine,4100 Magazine St.,,,,1,no,,,,,,,,yes,n
+,,,,,4300 Magazine,4300 Magazine St.,,,,,yes,,,,,,,,yes,n
+,,,,,900 Napoleon,900 Napoleon Ave.,,,,1,no,"construction, but light is there",,,,,,,yes,n
+,,,,,1100 Napoleon,1100 Napoleon Ave.,,,,1,no,sandwich board sign placed there.,,,,,,,yes,n
+Beatty,Uptown,St. Francis of Assisi (Lycee),yes (Lycee),611 State Street,700 State St,700 State St.,,,,1,no,,,,,,,,yes,n
+,,,,,500 State St,500 State St.,,,,1,no,,,,,,,,yes,n
+Beatty,Carrollton,Carrollton Presbyterian (Stuart Hall),yes,2032 S. Carrollton ,1900 S Carrollton,1900 S. Carrollton Ave.,,,,,partial,top light seems to be going in proper rhythm,,,,,,,yes,no
+,,,,,2100 S Carrollton,2100 S. Carrollton Ave.,,,,1,no,,,,,,,,yes,no
+Bob,Garden District,ISL,yes,1400 Camp Street,1300 Magazine,1300 Magazine St.,,,,1,No,,,,,,,,yes,no
+,,,,,1300 Camp/Coliseum,1345 Coliseum St.,,,,,Yes,,,,By light pole,,,,yes,yes
+,,,,,Coliseum,1500 Camp St.,,,,1,No,,,,Totally by tree,,,,yes- doesn't work,no
+Bob,Irish Channel,ReNEW SciTech Academy at Laurel Elementary,yes,820 Jackson Ave,1000 Jackson Ave,1000 Jackson Ave.,,,,1,No,,,,,,,,yes - doesn't work,yes
+,,,,,700 Jackson Ave,700 Jackson Ave.,,,,,Yes,,,,,,,,yes,yes
+Bob,Central City,Mahalia Jackson Elementary,yes (but at 2405 jackson),2101 Freret St,2500 Jackson St,2500 Jackson St.,,,,1,No,,,,,,,,yes - doesnt work,no
+,,,,,2300 Jackson St,2300 Jackson St.,,,,,Yes,,,,,,,,yes,no
+,,,,,1800 Simon Bolivar,1800 Simon Bolivar Ave.,,,,,"partial, one light",,,,Ttotally by tree,,,,yes,no
+,,,,,2100 Simon Bolivar,2100 Simon Bolivar Ave.,,,,,"partial, one light",,,,Partial tree,,,,yes,no
+Bob,Uptown,McGehee School,yes,2343 Prytania,2200 St. Charles Ave,2200 St. Charles Ave.,,,,1,No,,,,,,,, yes not working,no
+,,,,,2200 Prytania,2200 Prytania St.,,,,,Yes,,,,,,,,Yes,yes
+,,,,,2400 Prytania,2400 Prytania St.,,,,,Yes,,,,,,,,Yes,yes
+Bob,Central City,KIPP Central City,yes,2514 Third Street,2400 Washington,2400 Washington Ave.,,,,,Yes,,,,,,,,Yes - not working,no
+,,,,,2500 Washington,2500 Washington Ave.,,,,,Yes,,,,,,,,Yes-not working,no
+Bob,Central City,Trinity Episcopal School,yes,1315 Jackson Ave,1200 Jackson Ave,1200 Jackson Ave.,,,,1,No,,,,,,,,Yes,yes
+,,,,,1400 Jackson Ave,1400 Jackson Ave.,,,,1,No,,,,,,,,Yes,yes
+Bob,Uptown,Holy Name of Jesus School,yes,6325 Cromwell Place,2000 Calhoun,2000 Calhoun St.,,,,1,no,,,,,,,,yes,no
+Charles,NO East,Einstein Charter School,yes,5100 Cannes St.,13300 Dwyer Blvd.,13300 Dwyer Blvd.,9/10/2015,7:26 AM,,1,No,,NA,,No,,,,Yes,No
+,,,,,13700 Dwyer Blvd.,13700 Dwyer Blvd.,9/10/2015,7:30 AM,,1,No,,NA,,No,,,,"Yes
+",No
+,,,,,5200 Michoud,5200 Michoud Blvd.,9/10/2015,7:34 AM,,,Yes,,No,,"No
+",,,,Yes,No
+,,,,,4900 Michoud,4900 Michoud Blvd.,9/10/2015,7:38 AM,,,"partial, low batt",,Yes,,No,,,,Yes ,No
+Charles,NO East,ReNEW Delores T Aaron Elem,yes,10200 Curran Blvd.,7500 Read Blvd,7500 Read Blvd.,9/10/2015,8:10 AM,,,Yes,,No,,No,,,,Yes,No
+,,,,,7700 Read Blvd,7700 Read Blvd.,9/10/2015,8:13 AM,,,Yes,,No,,No,,,,Yes,No
+Charles,NO East,G.W. Carver Preparatory Academy,yes,7301 Dwyer,7200 Dwyer Rd.,7200 Dwyer Road,9/10/2015,8:34 AM,,1,No,,NA,,No,,,,Yes,yes
+,,,,,7500 Dwyer,7500 Dwyer Road,9/10/2015,8:25 AM,,,Yes,,No,,No,,,,Yes,yes
+,,,,,3900 St. Claude,3900 St. Claude Ave.,9/9/2015,3:47 PM,,,Yes,,No,,No,,,,"Yes
+",No
+Charles,NO East,Resurrection of our Lord Catholic School,yes,4861 Rosalie Drive,9600 Hammond ,9600 Hammond St.,9/10/2015,7:58 AM,,1,No,,NA,,No,,,,Yes,yes
+,,,,,9800 Hammond,9800 Hammond St.,9/10/2015,7:55 AM,,,Yes,,No,,No,,,,Yes,yes
+,,,,,4700 Read,4700 Read Blvd.,9/10/2015,7:49 AM,,1,No,,NA,,No,,,,Yes,Yes
+,,,,,4800 Read,4800 Read Blvd.,9/10/2015,7:51 AM,,,Yes,,No,,No,,,,Yes,Yes
+Charles,NO East,St. Paul ,,6900 Chef Menteur Highway,6700 Chef Menteur,6700 Chef Menteur Highway,9/10/2015,7:05 AM,,,Yes,,No,,No,,,,Yes,No
+,,,,,7200 Chef Menteur,7200 Chef Menteur Highway,9/10/2015,7:05 AM,,,"Yes
+",,No,,No,,,,Yes,No
+Charles,Upper Ninth,Akili Academy,yes,3811 N Galvez,3700 Galvez,3700 Galvez St.,9/9/2015,3:29 PM,,,Yes,,No,,No,,,,Yes,No
+,,,,,3900 Galvez,3900 Galvez St.,9/9/2015,3:33 PM,,,Yes,,No,,No,,,,Yes,No
+Charles,Bywater,KIPP NO Leadership Academy,yes,2300 St. Claude,2340 St. Claude,2340 St. Claude Ave.,9/9/2015,2:58 PM,,1,No,,NA,"
+",No,,,,Yes,No
+,,,,,2250 St. Claude,2250 St. Claude Ave.,9/9/2015,2:53 PM,,,Yes,,No,,No,,,,Yes,No
+Charles,Gentilly,Mary Coghill Charter School,yes,4617 Mirabeau Ave,4900 Press St,4900 Press St.,9/10/2015,2:51 PM,,,Yes,,No,,No,,,,Yes,Yes
+,,,,,4800 Press St,4800 Press St.,9/10/2015,2:48 PM,,,Yes,,No,,No,,,,Yes,Yes
+Charles,Upper Ninth,Benjamin Mays (was McDonogh 42 temporary campus),,3059 Higgins Blvd,2800 Higgins Blvd,2800 Higgins Blvd.,9/10/2015,3:01 PM,,1,No,,NA,,No,,,,Yes,no
+,,,,,3100 Higgins Blvd,3100 Higgins Blvd.,9/10/2015,3:06 PM,,1,No,,NA,,No,,,,yes,no
+Karen,Mid-City,John Dibert (Encore),yes,4217 Orleans Ave,4100 Orleans Avenue,4100 Orleans Ave.,Sept 10 ,,,,yes,,,,,,,,yes,no
+,,,,,4300 Orleans Avenue,4300 Orleans Ave.,Sept 10 ,,,1,no,,,,,,,,yes,no
+,Mid-City,Esperanza Charter School,yes,4407 S. Carrollton Ave,4300 S Carrollton Ave,4300 S. Carrollton Ave.,Sept 10 ,,,,yes,,,,,,,,,yes
+,,,,,4500 S Carrollton Ave,4500 S. Carrollton Ave.,Sept 10 ,,,,yes,,,,,,,,,yes
+Karen,Carrollton,Lafayette Academy,yes,2727 S. Carrollton Ave,2600 S Carrollton,2600 S. Carrollton Ave.,,,,,yes,,,,,,,,,no
+,,,,,2800 S Carrollton,2800 S. Carrollton Ave.,,,,1,no,,,,,,,,,no
+,,,,,7900 Walmsley,7900 Walmsley Ave.,,,,1,no,,,,,,,,,no
+Karen,Carrollton,St. Rita School,yes,65 Fountainebleau Drive,7200 Lowerline,7200 Lowerline St.,,,,,yes,,,,,,,,,
+,,,,,7300 Broad Pl,7300 Broad Place,,,,1,no,,,,,,,,,no
+,,,,,50 Fontainebleau,50 Fontainebleau Drive,,,,,yes,,,,,,,,,no
+,,,,,80 Fontainbleau,80 Fontainbleau Drive,,,,,yes,,,,,,,,,no 
+Karen,Lakeview,St. Dominic,yes,6326 Memphis St,700 Harrison,700 Harrison Ave.,,,,,"partial, low batt",,yes,,,,,,,no
+,,,,,800 Harrison,800 Harrison Ave.,,,,,yes,,,,,,,,,no
+,,,,,6300 Canal Boulevard,6300 Canal Blvd.,,,,1,no,,,,,,,,,NO
+,,,,,6400 Canal ,6400 Canal Blvd.,,,,,yes,,,,,,,,,no
+Karen,Lakeview,St. Paul's Episcopal,yes,6249 Canal Blvd.,6100 Canal Blvd.,6100 Canal Blvd.,,,,,yes,,,,,,,,,no
+,,,,,6200 Canal Blvd,6200 Canal Blvd.,,,,,yes,,,,,,,,,yes
+Karen,Lakeview,Edward Hynes Charter School,yes,990 Harrison Ave,900 Harrison Ave,900 Harrison Ave.,,,,,"partial, low batt",,yes,,,,,,,no
+,,,,,990 Harrison Ave,990 Harrison Ave.,,,,,yes,,,,,,,,,no
+Karen,Gentilly,Arthur Ashe Charter School,yes,1546 Gardena Drive,1490 Filmore Ave,1490 Filmore Ave.,,,,,"partial, low batt",,yes,,,,,,yes,
+,,,,,1501 Filmore Ave,1501 Filmore Ave.,,,,,yes,,,,,,,,yes,no
+,,,,,1460 Mirabeau Ave,1460 Mirabeau Ave.,,,,,yes,,,,,,,,yes,
+,,,,,1500 Mirabeau Ave,1500 Mirabeau Ave.,,,,1,no,,,,,,,,yes,no
+Karen,Gentilly,Holy Cross,yes,5500 Paris Ave,Paris at prentis,5500 Paris Ave.,,,,,yes,,,,,,,,yes,yes
+,,,,,Paris (athis?),5700 Paris Ave.,,,,1,no,,,,,,,,yes,no
+Marta,Treme,Joseph Craig Elementary,yes,1423 St. Philip Street,900 Claiborne Ave,900 N. Claiborne Ave.,9/9/2015,,,,yes,,,,,,,,yes,no
+,,,,,1013 Claiborne Ave,1013 N. Claiborne Ave.,9/9/2015,,,,yes,,,,,,,,yes,no
+,,,,,1500 Basin St.,1500 Basin St.,9/9/2015,,,,yes,,,,,,,,yes,no
+Marta,French Quarter,KIPP McDonogh 15,yes,721 St. Philip St,300 Basin St.,300 Basin St.,9/9/2015,,,,yes,,,,,,,,yes,no
+,,,,,400 Basin St.,400 Basin St.,9/9/2015,,,,yes,,,,,,,,yes,no
+,,,,,2300 St. Bernard Ave,2300 St. Bernard Ave.,9/9/2015,,,1,no,,,,,,,,yes,no
+,,,,,3900 St. Bernard Ave,3900 St. Bernard Ave.,9/9/2015,,,1,neither,,,,,,,,yes,no
+Marta,Mid-City,John Dibert @ Philiss Wheatly,yes,2300 Dumaine,800 N Galvez,800 N. Galvez St.,9/9/2015,,,,yes (no sign),,,,,,,,yes (no sign tho),no
+,,,,,2300 Orleans Ave,2300 Orleans Ave.,9/9/2015,,,,yes ,,,,,,,,yes,no
+,,,,,2400 Orleans Ave,2400 Orleans Ave.,9/9/2015,,,,yes,,,,,,,,yes,no
+Marta,Mid-City,Success Preparatory Academy,yes,2011 Bienville,2100 Bienville,2100 Bienville St.,9/9/2015,,,,"partial, low batt",,,,,,,,yes,no
+,,,,,1900 Bienville,1900 Bienville St.,9/9/2015,,,1,no,,,,,,,,yes,no
+Marta,Mid-City,St Anthony/Marshall (Capdau),yes,4601 Cleveland Ave,4500 Canal ,4500 Canal St.,9/10/2015,,,,yes,,,,,,,,yes,WB Canal at N Olympia
+,,,,,4700 Canal,4700 Canal St.,9/10/2015,,,,yes,,,,,,,,yes,EB Canal at St. Patrick
+,,,,,4500 Bienville,4500 Bienville St.,9/10/2015,,,1,no,,,,,,,,yes,EB Bienville at St. Patrick
+,,,,,4700 Bienville,4700 Bienville St.,9/10/2015,,,,yes,,,,,,,,yes,WB Bienville at N Olympia
+Marta,Mid-City,St. John Lutheran School,yes,3937 Canal St,3800 Canal,3800 Canal St.,9/10/2015,,,,yes,,,,,,,,yes,no
+,,,,,4000 Canal,4000 Canal St.,9/10/2015,,,,"partial, top only",,,,,,,,yes,no
+Marta,Mid-City,St. Leo,yes,1501 Abundance ST,2800 Paris,2800 Paris Ave.,9/9/2015,,,,yes,,,,,,,,yes,no
+,,,,,3000 Paris,3000 Paris Ave.,9/9/2015,,,,yes,,,,,,,,yes,no
+,,,,,2900 St. Bernard Ave,2900 St. Bernard Ave.,9/9/2015,,,1,no,,,,,,,,yes,no
+,,,,,3100 St. Bernard Ave,3100 St. Bernard Ave.,9/9/2015,,,,yes,,,,,,,,yes,no
+Marta,Upper Ninth,Valena Jones Elementary School (kids here?),,1901 N. Galvez St.,1840 Galvez,1840 Galvez St.,9/9/2015,,,,x (off),,,,,,,,yes,no
+,,,,,2000 Miro St,2000 Miro St.,9/9/2015,,,,x (off),,,,,,,,yes,no
+Marta,Gentilly,McDonogh 39 (closed),no,5800 St. Roch,5700 Franklin ,5700 Franklin Ave.,9/9/2015,,,,x (no sign),,,,,,,,,
+,,,,,5900 Franklin,5900 Franklin Ave.,9/9/2015,,,,x (no sign),,,,,,,,,
+,,,,,5600 St. Roch,5600 St. Roch Ave.,9/9/2015,,,,x (no sign),,,,,,,,,
+,,,,,5900 St. Roch,5900 St. Roch Ave.,9/9/2015,,,,x (no sign),,,,,,,,,
+Marta,Gentilly,Moton Charter School (now Milestone Academy),at 3774 Gentilly Blvd yes,3736 Gentilly Boulevard,3700 Gentilly,3700 Gentilly Blvd.,9/9/2015,,,1,no,,,,,,,,yes,
+,,,,,3800 Gentilly,3800 Gentilly Blvd.,9/9/2015,,,1,no,,,,,,,,yes,
+,,,,,4100 Franklin,4100 Franklin Ave.,9/9/2015,,,,yes,,,,,,,,yes,yes
+,,,,,4200 Franklin,4200 Franklin Ave.,9/9/2015,,,,partial (low battery),,,,,,,,yes,yes
+Tom,Uptown,Eleanor McMain Secondary School,yes,5712 S. Clairborne Ave,5500 S. Claiborne Ave,5500 Claiborne Ave.,,,,,Partial (low battery),,Yes,,No,,"7:17, has solar panel, speeding.",,Yes,No
+,,,,,5800 S. Claiborne Ave,5800 Claiborne Ave.,,,,,Yes,,No,,No,,"7:23, has solar panel, speeding.",,Yes,No
+Tom,West Bank,William Fischer Accelerated Academy,yes,1801 L.B.Landry Ave,1800 L.B. Landry Ave,1800 L.B. Landry Ave.,,,,1,No,,No,,No,,"8:18, no speeding, has solar panel.",,Yes,No
+,,,,,2100 L.B. Landry Ave,2100 L.B. Landry Ave.,,,,,Yes,,No,,No,,"8:22, no speeding, has solar panel.",,Yes,No
+Tom,West Bank,Paul Habans ,yes,3819 Herschel Street,3600 MacArthur,3600 MacArthur Blvd.,,,,1,No,,No,,No,,"7:30, slight speeding, has solar panel.",,Yes,No
+Tom,West Bank,Alice Harte Elementary School,yes,5300 Berkely Drive,5100 MacArthur (actually 4800 MacArthur),4800 MacArthur Blvd.,,,,,"Partial (top light dead, bottom has low battery)",,"Yes, only on bottom light",,No,,"7:23, not speeding, has solar panel.",,Yes,No
+,,,,,5300 MacArthur (actually 5100 MacArthur),5100 MacArthur Blvd.,,,,1,No,,No,,No,,"7:19, not speeding, has solar panel.",,Yes,No
+,,,,,1000 Woodland,1000 Woodland Drive,,,,,"Parital, low battery",,Yes,,No,,"7:12, not speeding, has solar panel.",,Yes,No
+,,,,,900 Woodland,900 Woodland Drive,,,,,Yes,,No,,No,,"7:10, not speeding, has solar panel. The lights were flashing before 7 a.m.",,Yes,No
+Tom,West Bank,Holy Name of Mary School,"no, but theres a new school there",502 Olivier St,600 Opelousas,600 Opelousas Ave.,,,,,Yes,,No,,No,,"8:08, no speeding, no solar panel (uses Entergy underground power)",,Yes,Yes
+,,,,,800 Opelousas,800 Opelousas Ave.,,,,1,"No, it turned off while I was filming it and didn't turn back on.",,No,,No,,"8:03, no speeding, no solar panel (uses Entergy underground power). The light was working perfectly, but then abruptly turned off and didn't turn back on. I have that moment on video just before I stopped recording.",,Yes,Yes
+Tom,Central City,Sylvanie Williams College Prep,yes,3127 Martin Luther King Jr. Blvd,3000 Martin Luther King Jr. Blvd,3000 Martin Luther King Jr. Blvd.,,,,,Yes,,No,,No,,"7:01, no speeding, has solar panel.",,Yes,No
+,,,,,3200 Martin Luther King Jr. Blvd,3200 Martin Luther King Jr. Blvd.,,,,,Yes,,No,,No,,"7:03, no speeding, has solar panel.",,Yes,No
+Tom,Broadmoor,Andrew Wilson,yes,3617 General Pershing,3500 Napoleon,3500 Napoleon Ave.,,,,,Yes,,No,,No,,"7:41, no speeding, has solar panel.",,Yes,No
+,,,,,3700 Napoleon,3700 Napoleon Ave.,,,,,Yes,,No,,No,,"7:37, no speeding, has solar panel.",,Yes,No
