@@ -124,6 +124,7 @@ function addBaseMaps() { L.control.layers(baseMaps).addTo(map); }
 function addLegend() {
   var legend = L.control({position: 'bottomright'});
 
+// update legend text below with date of survey
   legend.onAdd = function () {
     var div = L.DomUtil.create('div', 'info legend');
     div.innerHTML = '<div class="legend-title">School zone lights</div>' +
